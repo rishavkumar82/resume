@@ -5,10 +5,14 @@
     font-family: 'poppins' , sans-serif;
   
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     color: #ededed;
     background: #081b29;
     scroll-behavior: smooth;
+    
     
 }
 .header{
